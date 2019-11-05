@@ -1,0 +1,14 @@
+body {
+    background-image: url("../images/gaming-pattern.png");
+    background-repeat: repeat;
+    max-width: 960px;
+
+}
+
+h1 {
+    color: teal ;
+    background-color: white;
+    border-color: #cccccc
+    
+}
+
