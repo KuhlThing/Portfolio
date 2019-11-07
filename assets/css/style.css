@@ -3,14 +3,12 @@ body {
   font-size: 18px;
   line-height: 34px;
   color: #777777;
-  background: url("../images/concrete_seamless.png");
+  background: url("../images/gaming-pattern/gaming-pattern/gaming-pattern.png");
 }
 
 * {
   box-sizing: border-box;
 }
-
-/* general */
 
 .container {
   width: 100%;
@@ -49,8 +47,6 @@ h2,
 h3 {
   font-size: 22px;
 }
-
-/* header */
 
 #masthead {
   position: fixed;
@@ -96,7 +92,6 @@ nav a:first-child {
   border-left: 0 none;
 }
 
-/* footer */
 
 footer {
   padding: 30px 0;
@@ -117,7 +112,6 @@ h3, h2 {
   border-bottom: 2px solid #eeeeee;
 }
 
-/* main */
 
 #main-container {
   padding-top: 130px;
@@ -134,7 +128,6 @@ h3, h2 {
   border: 1px solid #dddddd;
 }
 
-/* portfolio page */
 
 .work {
   position: relative;
@@ -175,8 +168,6 @@ h3, h2 {
   margin-top: 10px;
   margin-right: 25px;
 }
-
-/* contact page */
 
 #contact-form ul {
   margin-bottom: 20px;
